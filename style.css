@@ -16,7 +16,7 @@ body{
 }
 h1{
     font-size: 2rem;
-    color: rgba(0, 0, 0, 0.87);
+    color: #03a9f4;
 }
 .container{
     display:flex;
